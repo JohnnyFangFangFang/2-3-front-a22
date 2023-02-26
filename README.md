@@ -30,5 +30,5 @@ npm run dev
 ```
 Express is listening on http://localhost:3000
 ```
-6. Open your browser, type "http://localhost:3000", then enjoy the project, and that would be incredible if you could enjoy this small test.
+6. Open your browser, type "http://localhost:3000", then enjoy the project, and that would be incredible if you could enjoy this small test. If you did so, please let me know.
 7. Press "ctrl + c" in Terminal if you want to stop running the project.
